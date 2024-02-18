@@ -1,6 +1,6 @@
-# INFO 4340/5440
+# Contrast Checker
 
-Open this repository as a Codespace on GitHub (or as a container in VS Code.)
+Hi there! This is a tool for calculating color contrast ratios and checking WCAG accessibility. Use as you please!
 
 ## Development Server
 
